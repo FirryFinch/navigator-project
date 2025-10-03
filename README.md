@@ -1,1 +1,1 @@
-# navigator-project
+# Проект "Навигатор"
