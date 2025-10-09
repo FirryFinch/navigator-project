@@ -1,6 +1,3 @@
-[submodule "Веб-приложение для навигации/Веб-приложение для навигации/BMSTU-Navigator"]
-	path = Веб-приложение для навигации/Веб-приложение для навигации/BMSTU-Navigator
-	url = https://github.com/MaratKamalovPD/BMSTU-Navigator.git
 [submodule "Веб-приложение для навигации/BMSTU-Navigator"]
 	path = Веб-приложение для навигации/BMSTU-Navigator
 	url = https://github.com/MaratKamalovPD/BMSTU-Navigator.git
